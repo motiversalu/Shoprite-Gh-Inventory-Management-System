@@ -39,6 +39,11 @@ Instructions: How to Run?
 
     To start the program, press the green “Start” button on the Visual Studio toolbar.
     All the login details are provided inside the "LOGIN DETAILS.txt" file, check that out and enter in order to use it.
+    
+ #########################################################################################################################################
+
+Youtube video link( How the app works) :
+https://youtu.be/ajpl9BjIOp0
 
 
 ##########################################################################################################################################
@@ -73,4 +78,9 @@ Assumptions:
 2. The user needs apache running and also phpMyAdmin installed for the database
 3. A browser to access phpMyAdmin
 
+
+#########################################################################################################################################
+
+Youtube video link( How the app works) :
+https://youtu.be/ajpl9BjIOp0
 
